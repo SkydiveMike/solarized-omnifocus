@@ -600,6 +600,27 @@
           <real>0.60392156862745094</real>
         </dict>
       </dict>
+      <key>ExpectationsBarBackgroundColor</key>
+      <dict>
+        <key>a</key>
+        <real>1</real>
+        <key>w</key>
+        <real>0.77500000000000002</real>
+      </dict>
+      <key>ExpectationsBarBorderColor</key>
+      <dict>
+        <key>a</key>
+        <real>1</real>
+        <key>w</key>
+        <real>0.59999999999999998</real>
+      </dict>
+      <key>ExpectationsBarInactiveBackgroundColor</key>
+      <dict>
+        <key>a</key>
+        <real>1</real>
+        <key>w</key>
+        <real>0.95999999999999996</real>
+      </dict>
       <key>FocusExpectationsBarBottomColor</key>
       <dict>
         <key>a</key>
@@ -1998,6 +2019,34 @@
     <dict>
       <key>fixed-styles</key>
       <dict>
+        <key>OFITextStyleCustomizedSidebarTabTitle</key>
+        <dict>
+          <key>font-name</key>
+          <string>semibold-italic</string>
+          <key>font-size</key>
+          <real>10</real>
+        </dict>
+        <key>OFITextStyleCustomizedSidebarTabTitle:de</key>
+        <dict>
+          <key>font-name</key>
+          <string>semibold-italic</string>
+          <key>font-size</key>
+          <real>9</real>
+        </dict>
+        <key>OFITextStyleCustomizedSidebarTabTitle:ja</key>
+        <dict>
+          <key>font-name</key>
+          <string>semibold-italic</string>
+          <key>font-size</key>
+          <real>9</real>
+        </dict>
+        <key>OFITextStyleCustomizedSidebarTabTitle:ru</key>
+        <dict>
+          <key>font-name</key>
+          <string>semibold-italic</string>
+          <key>font-size</key>
+          <real>9</real>
+        </dict>
         <key>OFITextStyleForecastCalendarEventTitle</key>
         <dict>
           <key>font-name</key>
